@@ -6,8 +6,8 @@ AI is a way of studying how human brain thinks, and how humans learn, decide, an
 
 ## Goals of AI
 
-* ***To Create Expert Systems*** - The systems which exhibit intelligent behavior, learn, demonstrate, explain, and advice its users.
-* ***To Implement Human Intelligence in Machines*** - Creating systems that understand, think, learn, and behave like humans.
+* **To Create Expert Systems** - The systems which exhibit intelligent behavior, learn, demonstrate, explain, and advice its users.
+* **To Implement Human Intelligence in Machines** - Creating systems that understand, think, learn, and behave like humans.
 
 ## What Contributes to AI?
 

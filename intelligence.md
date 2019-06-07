@@ -50,45 +50,45 @@ It is the set of processes that enable us to provide basis for judgement, making
 
 The ability of learning is possessed by humans, particular species of animals, and AI enabled systems. Learning is categorized as follows:
 
-***Auditory Learning***
+**Auditory Learning**
 
 It is learning by listening and hearing. For example, students listening to recorded audio lectures.
 
-***Episodic Learning***
+**Episodic Learning**
 
 To learn by remembering sequences of events that one has witnessed or experienced. This is linear and orderly.
 
-***Motor Learning***
+**Motor Learning**
 
 It is learning by precise movement of muscles. For example, picking objects, writing, etc.
 
-***Observational Learning***
+**Observational Learning**
 
 To learn by watching and imitating others. For example, child tries to learn by mimicking her parent.
 
-***Perceptual Learning***
+**Perceptual Learning**
 
 It is learning to recognize stimuli that one has seen before. For example, identifying and
 classifying objects and situations.
 
-***Relational Learning***
+**Relational Learning**
 
 It involves learning to differentiate among various stimuli on the basis of relational properties, rather than absolute properties. For Example, Adding ‘little less’ salt at the time of cooking potatoes that came up salty last time, when cooked with adding say a tablespoon of salt.
 
-  * ***Spatial Learning*** - It is learning through visual stimuli such as images, colors, maps, etc. For example, A person can create roadmap in mind before actually following the road.
-  * ***Stimulus-Response Learning*** - It is learning to perform a particular behavior when a certain stimulus is present. For example, a dog raises its ear on hearing doorbell.
+  * **Spatial Learning** - It is learning through visual stimuli such as images, colors, maps, etc. For example, A person can create roadmap in mind before actually following the road.
+  * **Stimulus-Response Learning** - It is learning to perform a particular behavior when a certain stimulus is present. For example, a dog raises its ear on hearing doorbell.
 
 ### Problem Solving
 
 It is the process in which one perceives and tries to arrive at a desired solution from a present situation by taking some path, which is blocked by known or unknown hurdles.
 
-Problem solving also includes ***decision making***, which is the process of selecting the best suitable alternative out of multiple alternatives to reach the desired goal.
+Problem solving also includes **decision making**, which is the process of selecting the best suitable alternative out of multiple alternatives to reach the desired goal.
 
 ### Perception
 
 It is the process of acquiring, interpreting, selecting, and organizing sensory information.
 
-Perception presumes ***sensing***. In humans, perception is aided by sensory organs. In the domain of AI, perception mechanism puts the data acquired by the sensors together in a meaningful manner.
+Perception presumes **sensing**. In humans, perception is aided by sensory organs. In the domain of AI, perception mechanism puts the data acquired by the sensors together in a meaningful manner.
 
 ### Linguistic Intelligence
 
