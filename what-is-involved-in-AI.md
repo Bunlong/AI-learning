@@ -1,4 +1,4 @@
-## What’s Involved in AI
+# What’s Involved in AI
 
 AI is a vast area of study. This field of study helps in finding solutions to real world problems.
 

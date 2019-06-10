@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial Intelligence Concept
 
 ## What is AI?
 

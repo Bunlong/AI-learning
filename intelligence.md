@@ -1,3 +1,5 @@
+# Intelligence
+
 ## What is Intelligence?
 
 The ability of a system to:
